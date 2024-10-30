@@ -1,0 +1,1 @@
+Hello guyzzz I have made a Keylogger in python please be aware of this tool it is for education purpose dont use to harm anyone or for any other personal reasons i am not responsible for any kind of offence 
